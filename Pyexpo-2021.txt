@@ -1,0 +1,14 @@
+#Team No:2
+#Team Name:KOVAI WHIZZ KIDZ
+Contributors :
+SOWNDARYA S
+PRATHIBHA  P
+SANTHIYA S
+BALAJI P R 
+SANJAI ROHITH M
+SHARMILA S
+
+
+Description:
+        ~we done the project that scraps the images from the URL
+       ~it is a base project for advange AI project's Data Collection 
